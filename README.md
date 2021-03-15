@@ -22,6 +22,7 @@ This document is a work developed during the Software Engineering course in wich
 * **Advanced** - Lua
 * **Intermediate** - C/C++
 * **Intermediate** - JavaScript
+* **Intermediate** - Dart
 * **Beginner** - Python
 * **Beginner** - C#
 
@@ -35,4 +36,5 @@ This document is a work developed during the Software Engineering course in wich
 * **Advanced** - Hibernate
 * **Intermediate** - Maven
 * **Intermediate** - Git
+* **Intermediate** - Flutter
 * **Beginner** - Gradle
