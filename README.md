@@ -38,3 +38,7 @@ This document is a work developed during the Software Engineering course in wich
 * **Intermediate** - Git
 * **Intermediate** - Flutter
 * **Beginner** - Gradle
+
+## Contact
+
+Email: eduardo.modenuti.contato@gmail.com
