@@ -44,6 +44,24 @@ This document is a work developed during the Software Engineering course in wich
 * **Intermediate** - Flutter
 * **Beginner** - Gradle
 
+### Tools
+
+* Visual Studio Code
+* Visual Studio 2019 Community
+* NetBeans
+* Code::Blocks
+* Eclipse
+* Notepad++
+* Docker
+* Apache JMeter
+* MySQL Workbench
+* IntelliJ IDEA Community
+
+### OS
+
+* Windows 10
+* Linux Debian 10
+
 ## Contact
 
 Email: eduardo.modenuti.contato@gmail.com
