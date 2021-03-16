@@ -64,5 +64,5 @@ This document is a work developed during the Software Engineering course in wich
 
 ## Contact
 
-Email: eduardo.modenuti.contato@gmail.com
-Linkedin: https://www.linkedin.com/in/eduardo-modenuti-1105501b6/
+* Email: eduardo.modenuti.contato@gmail.com
+* Linkedin: https://www.linkedin.com/in/eduardo-modenuti-1105501b6/
