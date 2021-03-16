@@ -36,7 +36,7 @@ This document is a work developed during the Software Engineering course in wich
 * **Advanced** - English
 * **Native** - Brazilian Portuguese
 
-### Other Developer Related Skills
+### Technologies
 
 * **Advanced** - Hibernate
 * **Intermediate** - Maven
